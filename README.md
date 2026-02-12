@@ -23,8 +23,8 @@ Money Labs solves these problems by:
 
 ---
 
-## Demo
-https://lovable-money-labs-login.lovable.app/?utm_source=lovable-editor
+<!-- ## Demo
+https://lovable-money-labs-login.lovable.app/?utm_source=lovable-editor -->
 
 create login 
 or use demo account
